@@ -41,7 +41,7 @@ $(document).on('click', '[data-toggle="lightbox"]', function(event) {
 /** google_map js **/
 function myMap() {
     var mapProp = {
-        center: new google.maps.LatLng(40.712775, -74.005973),
+        center: new google.maps.LatLng(49.6158464, 7.3341267),
         zoom: 18,
     };
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
