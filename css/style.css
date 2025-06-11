@@ -756,3 +756,20 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+#appointment {
+  padding: 50px;
+  text-align: center;
+}
+
+#appointment a {
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #04349a;
+    color: #ffffff;
+    border-radius: 5px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+    margin-top: 15px;
+}
