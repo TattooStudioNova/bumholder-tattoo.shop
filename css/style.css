@@ -322,8 +322,8 @@ a:focus {
 
 .service_section .box .img-box img {
   width: 75px;
-  -webkit-filter: invert(30%) sepia(71%) saturate(752%) hue-rotate(138deg) brightness(99%) contrast(90%);
-          filter: invert(30%) sepia(71%) saturate(752%) hue-rotate(138deg) brightness(99%) contrast(90%);
+  -webkit-filter: invert(30%) sepia(71%) saturate(752%) hue-rotate(193deg) brightness(99%) contrast(90%);
+          filter: invert(30%) sepia(71%) saturate(752%) hue-rotate(193deg) brightness(99%) contrast(90%);
 }
 
 .service_section .box .detail-box {
